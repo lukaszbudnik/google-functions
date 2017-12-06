@@ -1,0 +1,13 @@
+{
+  "name": "vision-for-gaming",
+  "version": "1.0.0",
+  "description": "Cloud Function reading from Google Storage and invoking Google Vision API",
+  "main": "index.js",
+  "author": "Łukasz Budnik <lukasz.budnik@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@google-cloud/pubsub": "^0.8.3",
+    "@google-cloud/storage": "^0.7.0",
+    "jimp": "^0.2.27"
+  }
+}

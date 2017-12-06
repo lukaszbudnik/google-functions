@@ -1,0 +1,13 @@
+{
+  "name": "vision-for-gaming-splitter",
+  "version": "1.0.0",
+  "description": "splitter",
+  "main": "index.js",
+  "author": "Łukasz Budnik <lukasz.budnik@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@google-cloud/pubsub": "^0.8.2",
+    "@google-cloud/storage": "^0.7.0",
+    "jimp": "^0.2.27"
+  }
+}

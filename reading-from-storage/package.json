@@ -1,0 +1,11 @@
+{
+  "name": "reading-from-storage",
+  "version": "1.0.0",
+  "description": "Cloud Function reading from Google Storage",
+  "main": "index.js",
+  "author": "Łukasz Budnik <lukasz.budnik@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@google-cloud/storage": "^0.7.0"
+  }
+}
